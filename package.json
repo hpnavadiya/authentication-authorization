@@ -1,0 +1,27 @@
+{
+  "name": "authentication-authorization",
+  "version": "1.0.0",
+  "description": "An npm package for authentication, authorization, logout and validate token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hpnavadiya/authentication-authorization.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Harsh Navdiya",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hpnavadiya/authentication-authorization/issues"
+  },
+  "homepage": "https://github.com/hpnavadiya/authentication-authorization#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^6.0.11"
+  }
+}
